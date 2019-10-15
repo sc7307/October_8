@@ -1,0 +1,19 @@
+body {
+  background: #EEF5F3;
+  font-family: '"Palatino Linotype", "Book Antiqua", Palatino, serif';
+  font-weight: 200;
+}
+
+/*for the global nav*/
+.containter {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: #EEF5F3;
+}
+
+nav {
+  float: right;
+}
